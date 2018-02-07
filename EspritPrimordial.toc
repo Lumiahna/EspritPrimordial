@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: Esprit Primordial
+## Version: 1.3
+## Author: Lumiahna
+## Notes: Loot automatique Esprit Primordial
+## SavedVariables: NeedPrimalSpiritsDB
+
+EspritPrimordial.lua
